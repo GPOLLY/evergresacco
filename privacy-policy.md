@@ -2,10 +2,31 @@ Privacy Policy
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at Hasco Sacco society limited, how Hasco Sacco society limited uses it, and what choices you have.
-hasco sacco built the hascosacco app as a free app. This SERVICE is provided by Hasco Sacco society limited at no cost and is intended for use as is.
+Our privacy policy will help you understand what information we collect at P.C.E.A Evergreen Parish Sacco society limited, how HP.C.E.A Evergreen Parish Sacco society limited uses it, and what choices you have.
+P.C.E.A Evergreen Parish sacco built the P.C.E.A Evergreen Parishsacco app as a free app. This SERVICE is provided by P.C.E.A Evergreen Parish Sacco society limited at no cost and is intended for use as is.
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+
+#### Loan Meta Data
+Tenure -: 61 days to 180 Days
+Loan Amount-: Kshs. 50,000 or 70% of his/her member deposit whichever is lower.
+Interest Rate-: 10% annually(on flat rate)
+Processing fee-: No Processing fee
+Repayment-: Monthly Repayment via pay bill.
+Defaults-: In case of default the loan balance is recovered from Member Deposit.
+Example-: if the Loan amount applied is ksh 30,000.00, with tenure of 90 days and a interest rate of 10 APR
+Interest charged = 30,000* (10/100) = 3000 kshs
+Tenure On Monthly = 90/30 = 3 months
+monthly repayment = (30,000+ 3,000)/3 = 11,000 ksh
+
+Functionality of the P.C.E.A Evergreen Parish Sacco App includes:
+Cash Deposit
+Loan Request
+Loan Repayment
+Loan Calculator
+view Recent Transaction
+Changes of password
+Log Out
 
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
